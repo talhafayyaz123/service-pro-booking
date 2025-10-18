@@ -1,0 +1,39 @@
+/*#instagram_feed .slick-slide {*/
+/*    margin: 0 20px;*/
+/*}*/
+
+
+/*@media screen and (max-width: 1280px) {*/
+/*    #homepage_slider .slick-slide {*/
+/*        margin: 0 10px;*/
+/*    }*/
+
+/*    #instagram_feed .slick-slide {*/
+/*        margin: 0 10px;*/
+/*    }*/
+
+/*    #homepage_slider.slick-list {*/
+/*        padding: 0 20px;*/
+/*        margin: 0 -30px;*/
+/*    }*/
+/*}*/
+
+@media screen and (max-width: 576px) {
+    #instagram_feed .slick-slide {
+        margin: 0 6px;
+    }
+
+    .slick-list {
+        margin: 0 -10px !important;
+    }
+
+
+}
+
+@media screen and (min-width: 577px ) {
+
+    .slick-list {
+        /*padding: 0 20px;*/
+        margin: 0 -10px !important;
+    }
+}

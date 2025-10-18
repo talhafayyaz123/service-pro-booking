@@ -1,0 +1,2 @@
+export const PRO_PLAN_MONTHLY_PRICE = 24.99
+export const PRO_PLAN_ANNUALLY_PRICE = 23

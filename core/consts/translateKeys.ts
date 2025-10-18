@@ -1,0 +1,16 @@
+export const TRANSLATE_KEYS = {
+  common: 'common',
+  onboarding: 'onboarding',
+  main_page: 'main_page',
+  account_setup: 'account_setup',
+  errors: 'errors',
+  profile: 'profile',
+  booking: 'booking',
+  payment: 'payment',
+  user: 'user',
+  bookings: 'bookings',
+  forgot_password: 'forgot_password',
+  '404': '404',
+  upgrade_subscription: 'upgrade_subscription',
+  updSubscription: 'updSubscription',
+}

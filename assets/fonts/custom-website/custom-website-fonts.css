@@ -1,0 +1,316 @@
+@font-face {
+  font-family: 'Medium';
+  src: url('./medium/MediumRegular.woff2') format('woff2'),
+    url('./medium/MediumRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Medium-Regular';
+  src: url('./medium/Medium-Regular.ttf') format('truetype'),
+    url('./medium/Medium-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'MEDIUM FONT';
+  src: url('./medium/Medium-Regular.ttf') format('truetype'),
+    url('./medium/Medium-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ===================== */
+
+@font-face {
+  font-family: 'Gambarino';
+  src: url('./gambarino/Gambarino-Regular.woff2') format('woff2'),
+    url('./gambarino/Gambarino-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gambarino-Regular';
+  src: url('./gambarino/Gambarino-Regular.woff2') format('woff2'),
+    url('./gambarino/Gambarino-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gambarino-Regular';
+  src: url('./gambarino/Gambarino-Regular.ttf') format('truetype'),
+    url('./gambarino/Gambarino-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ===================== */
+
+@font-face {
+  font-family: 'GeneralSans-Medium';
+  src: url('./general-sans/GeneralSans-Regular.woff2') format('woff2'),
+    url('./general-sans/GeneralSans-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('./general-sans/GeneralSans-Semibold.woff2') format('woff2'),
+    url('./general-sans/GeneralSans-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'General Sans';
+  src: url('./general-sans/GeneralSans-Medium.woff2') format('woff2'),
+    url('./general-sans/GeneralSans-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'GeneralSans-Medium';
+  src: url('./general-sans/GeneralSans-Medium.ttf') format('truetype'),
+    url('./general-sans/GeneralSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ===================== */
+
+@font-face {
+  font-family: 'Sofia Sans Condensed';
+  src: url('./sofia/SofiaSansCondensed-SemiBold.woff2') format('woff2'),
+    url('./sofia/SofiaSansCondensed-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Sans Condensed';
+  src: url('./sofia/SofiaSansCondensed-Regular.woff2') format('woff2'),
+    url('./sofia/SofiaSansCondensed-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SofiaSansCondensed-Regular';
+  src: url('./sofia/SofiaSansCondensed-Regular.ttf') format('truetype'),
+    url('./sofia/SofiaSansCondensed-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ===================== */
+
+@font-face {
+  font-family: 'Sofia Pro SemiBold';
+  src: url('./sofia/SofiaProSemiBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sofia Pro Bold';
+  src: url('./sofia/SofiaProBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('./sofia/SofiaProMed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sofia Pro Light';
+  src: url('./sofia/SofiaProLight.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ===================== */
+
+@font-face {
+  font-family: 'Atop';
+  src: url('./atop/Atop.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ===================== */
+
+@font-face {
+  font-family: 'Nimbus Sans L';
+  src: url('./nimbus/NimbusSanL-Reg.woff2') format('woff2'),
+    url('./nimbus/NimbusSanL-Reg.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nimbus Sans L';
+  src: url('./nimbus/NimbusSanL-Bol.woff2') format('woff2'),
+    url('./nimbus/NimbusSanL-Bol.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ===================== */
+
+@font-face {
+  font-family: 'OpenSans-Regular';
+  src: url('./open-sans/OpenSans-Regular.ttf') format('truetype'),
+    url('./open-sans/OpenSans-Regular.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./open-sans/OpenSans-Light.woff2') format('woff2'),
+    url('./open-sans/OpenSans-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./open-sans/OpenSans.woff2') format('woff2'),
+    url('./open-sans/OpenSans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./open-sans/OpenSans-Extrabold.woff2') format('woff2'),
+    url('./open-sans/OpenSans-Extrabold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./open-sans/OpenSans-Bold.woff2') format('woff2'),
+    url('./open-sans/OpenSans-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./open-sans/OpenSans-Semibold.woff2') format('woff2'),
+    url('./open-sans/OpenSans-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ========== Rationale Font from Google ==========  */
+@font-face {
+  font-family: 'Rationale';
+  src: url('./rationale/Rationale-Regular.ttf') format('truetype'),
+    url('./rationale/Rationale-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Rationale-Regular';
+  src: url('./rationale/Rationale-Regular.ttf') format('truetype'),
+    url('./rationale/Rationale-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+/* ========== Sour Gummy Font from Google ==========  */
+
+@font-face {
+  font-family: 'Sour Gummy';
+  src: url('./sour-gummy/SourGummy-Regular.ttf') format('truetype'),
+    url('./sour-gummy/SourGummy-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SourGummy-Regular';
+  src: url('./sour-gummy/SourGummy-Regular.ttf') format('truetype'),
+    url('./sour-gummy/SourGummy-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'Sour Gummy';
+  src: url('./sour-gummy/SourGummy-Bold.ttf') format('truetype'),
+    url('./sour-gummy/SourGummy-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Clouts';
+  src: url('./clouts/Clouts.ttf') format('truetype'),
+    url('./clouts/Clouts.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mufist';
+  src: url('./mufist/Mufist-Variable.otf') format('opentype'),
+    url('./mufist/Mufist-Variable.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Mufist-Regular';
+  src: url('./mufist/Mufist-Regular.ttf') format('truetype'),
+    url('./mufist/Mufist-Regular.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mufist';
+  src: url('./mufist/Mufist-Variable02.otf') format('opentype'),
+    url('./mufist/Mufist-Variable02.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
